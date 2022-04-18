@@ -4,7 +4,9 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Hotel Booking Cancellation](/sample_page)
+<br>
+In this notebook, we are going to analyze the hotel booking dataset provided by kaggle. The data is originally from the article Hotel Booking Demand Datasets, written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
