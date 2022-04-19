@@ -4,9 +4,9 @@
 
 ### Hotel Booking Cancellation
 
-<br>
 In this notebook, we are going to analyze the hotel booking dataset provided by kaggle. The data is originally from the article Hotel Booking Demand Datasets, written by Nuno Antonio, Ana Almeida, and Luis Nunes for Data in Brief, Volume 22, February 2019. [Project Link](https://adytiapp.github.io/hotel_booking_cancellation/)
-<br>
+
+
 Tool & Language Used :
 * Python
 * Google Collab
